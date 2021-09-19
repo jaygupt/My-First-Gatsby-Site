@@ -8,7 +8,7 @@ const IndexPage = () => {
         <p>I'm making this by following the Gatsby Tutorial.</p>
         <StaticImage 
           alt="Christian Bale as The Dark Knight" 
-          src="https://static.wikia.nocookie.net/batman/images/8/8f/Christian_Bale_as_The_Dark_Knight.jpg/revision/latest?cb=20210312234853"
+          src="../images/batman.jpeg"
         />
       </Layout>
   )
